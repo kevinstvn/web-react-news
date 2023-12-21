@@ -1,6 +1,6 @@
 # React JS + Vite Js Website Berita
 
-Selamat Datang di aplikasi ku, Kevin Steven Upgris
+Selamat Datang di aplikasi ku, Kelompok 3 Teknik Informatika Upgris
 
 ## Features
 
